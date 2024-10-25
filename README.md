@@ -40,7 +40,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*RK50G3R8xeRtANWAkJE6Mw.png" alt="sql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliHanyA&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
