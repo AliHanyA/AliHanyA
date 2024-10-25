@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliHanyA&label=Profile%20views&color=0e75b6&style=flat" alt="alihany" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="[https://twitter.com/rishavchanda](https://www.instagram.com/ali_hany.22?igsh=enU0aDcyaGdoYzg4&utm_source=qr)" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="ali_hany.22"  </p>
 
 - 🔭 I’m currently working on **front end**
 
